@@ -1,1 +1,1 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=radcat&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/radcat?theme=dark&font=Cormorant%20SC)
